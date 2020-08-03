@@ -1,1 +1,3 @@
 # Movie-App
+Single Page Application using Angular8, Typescript, and Movie API...
+As well this app has a real time search, and reactive forms.
